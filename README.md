@@ -24,6 +24,8 @@
 * Payment Gateway:
 <br>Implement a secure payment gateway using industry-standard encryption protocols to ensure the safety of financial transactions.
 
+# Website URL: https://photos.google.com/share/AF1QipPq6mHmDvVFN1TwvkFw5B2ByJAtzGAis0E5h8SqhSauu9FUGkc_afS_mUX2P9I6jA?key=ZF9vaGV2bGt5X0dKNXJjWkdUT1E5ZHBNM0pCc0lB
+
 # Technical Aspects
 * The frontend of the website is developed using HTML, CSS, and JavaScript. These technologies enable a responsive and interactive user interface that enhances user engagement and accessibility across different devices.
   
