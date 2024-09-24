@@ -1,4 +1,4 @@
-# ANNAPURNA_TIFFIN_ORDERING_SYSTEM
+# ANNAPURNA_TIFFIN_ORDERING_SYSTEM 🛢
 
 # Overview
 * Annapurna is a web application designed to streamline the process of ordering tiffins.
