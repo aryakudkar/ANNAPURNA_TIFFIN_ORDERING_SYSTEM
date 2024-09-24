@@ -4,7 +4,7 @@
 * Annapurna is a web application designed to streamline the process of ordering tiffins.
 * Through this user-friendly platform, individuals can easily browse, select, and order meals for delivery, making daily meal planning more convenient and efficient.
 
-# Key Features of Annapurna:
+# Key Features 
 * User Registration and Login:
 <br>Users can create accounts with personal details and login to the system with valid credentials.
 
@@ -24,7 +24,7 @@
 * Payment Gateway:
 <br>Implement a secure payment gateway using industry-standard encryption protocols to ensure the safety of financial transactions.
 
-# Technical Aspects:
+# Technical Aspects
 * The frontend of the website is developed using HTML, CSS, and JavaScript. These technologies enable a responsive and interactive user interface that enhances user engagement and accessibility across different devices.
   
 * The backend infrastructure is powered by PHP and MySQL. PHP is used for server-side scripting to handle business logic and user requests, while MySQL serves as the database management system to store and retrieve user data, meal plans, orders, and feedback.
